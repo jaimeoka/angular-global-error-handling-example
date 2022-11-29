@@ -1,6 +1,6 @@
-import { Component } from '@angular/core';
-import { MatToolbarModule } from '@angular/material/toolbar';
-import { WidgetComponent } from './widget/widget.component';
+import { Component } from '@angular/core'
+import { MatToolbarModule } from '@angular/material/toolbar'
+import { WidgetComponent } from './widget/widget.component'
 
 @Component({
   selector: 'app-root',

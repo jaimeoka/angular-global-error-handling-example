@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input } from '@angular/core'
 
 @Component({
   selector: 'app-widget-error',
@@ -16,5 +16,5 @@ import { Component, Input } from '@angular/core';
 })
 export class WidgetErrorComponent {
   @Input()
-  error: Error | null = null;
+  error: Error | null = null
 }
